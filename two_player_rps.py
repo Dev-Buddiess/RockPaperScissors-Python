@@ -122,7 +122,7 @@ with mp_hands.Hands(max_num_hands=2, min_detection_confidence=0.7, min_tracking_
 
             if elapsed >= countdown_secs:
                 if p1_move == -1 or p2_move == -1:
-                    result_text = "Invalid gesture! Show hands clearly inside the boxes."
+                    result_text = "Invalid gesture! Show hands clearly."
                 else:
                     winner = decide_winner(p1_move, p2_move)
                     if winner == "Player 1":
