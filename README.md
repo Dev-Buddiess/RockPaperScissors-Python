@@ -2,6 +2,10 @@
 
 A two-player Rock Paper Scissors game implemented in Python using OpenCV and MediaPipe for hand gesture recognition.
 
+## 👥 Team Members
+- [@yaswanth-gajula](https://github.com/SuggulaDharanipriya)  
+- [@SuggulaDharanipriya](https://github.com/yaswanth-gajula)
+
 ## Features and Functionality
 
 *   **Real-time Hand Gesture Recognition:** Uses MediaPipe to detect hand landmarks and recognize gestures (Rock, Paper, Scissors).
